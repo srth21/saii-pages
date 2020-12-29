@@ -8,6 +8,6 @@ module.exports = {
   postsPerPage: 5, // Required
   social: {
   },
-  pathPrefix: '/devblog',
+  pathPrefix: '/saii-pages',
   siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
 };
